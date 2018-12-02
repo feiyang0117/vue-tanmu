@@ -1,0 +1,23 @@
+{
+  "name": "vue-tanmu",
+  "version": "1.0.0",
+  "description": "基于vue的弹幕小插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feiyang0117/vue-tanmu.git"
+  },
+  "keywords": [
+    "vue",
+    "tanmu"
+  ],
+  "author": "gaomiaofei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feiyang0117/vue-tanmu/issues"
+  },
+  "homepage": "https://github.com/feiyang0117/vue-tanmu#readme"
+}
